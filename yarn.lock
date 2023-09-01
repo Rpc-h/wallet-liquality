@@ -3901,6 +3901,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ledgerhq/errors@npm:^6.14.0":
+  version: 6.14.0
+  resolution: "@ledgerhq/errors@npm:6.14.0"
+  checksum: 2c4e7bf126952a781d9226752b9401e842a5a773861128d182e9f40f1f46bf6cd8667c2ca64a1c52254d151bc6bec6d85ea62ba8b3dd35e46bbe47a90c291830
+  languageName: node
+  linkType: hard
+
 "@ledgerhq/hw-app-btc@npm:9.1.2":
   version: 9.1.2
   resolution: "@ledgerhq/hw-app-btc@npm:9.1.2"
@@ -3990,15 +3997,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ledgerhq/hw-transport-webhid@npm:6.27.10":
-  version: 6.27.10
-  resolution: "@ledgerhq/hw-transport-webhid@npm:6.27.10"
+"@ledgerhq/hw-transport-webhid@npm:6.27.19":
+  version: 6.27.19
+  resolution: "@ledgerhq/hw-transport-webhid@npm:6.27.19"
   dependencies:
-    "@ledgerhq/devices": ^7.0.7
-    "@ledgerhq/errors": ^6.12.3
-    "@ledgerhq/hw-transport": ^6.27.10
+    "@ledgerhq/devices": ^8.0.7
+    "@ledgerhq/errors": ^6.14.0
+    "@ledgerhq/hw-transport": ^6.28.8
     "@ledgerhq/logs": ^6.10.1
-  checksum: 19bb81abf9435943791b15e0ebbc0c9c9673b7829aee7386859849e6c1a4874c5541fbc4b2a79bad30b0cb4d84ef762c8e13c75a64992590415c4723f466ac7e
+  checksum: 8c5fa97dba90a104506d22228e1a58dbfc13097bd73b3d75d27ef53553f73f1e8ba8c62309679a135e77a976e81a86ed713d23409ac947b22dba4b71a58f3cd0
   languageName: node
   linkType: hard
 
